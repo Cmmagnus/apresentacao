@@ -37,8 +37,8 @@ cd seu-repositorio
 
 ### 🌐 Links
 
-- [Instagram](https://www.instagram.com/marcelinocarlosmagno/) ![Instagram](https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Instagram_logo_2022.svg/1200px-Instagram_logo_2022.svg.png)
-- [GitHub](https://github.com/Cmmagnus) ![GitHub](https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg)
+- [Instagram](https://www.instagram.com/marcelinocarlosmagno/) ![Instagram](https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Instagram_logo_2022.svg/1200px-Instagram_logo_2022.svg.png =32x32)
+- [GitHub](https://github.com/Cmmagnus) ![GitHub](https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg =32x32)
 
 ### 📝 Licença
 
