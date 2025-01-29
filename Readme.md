@@ -1,3 +1,49 @@
+# 💻 Sobre Mim - Carlos Magno
+
+## 🚀 Transformando Experiência em Inovação
+
+Sou Carlos Magno, um profissional multidisciplinar com uma trajetória que une **química industrial, qualidade e tecnologia**. Minha paixão por inovação me levou a uma transição estratégica para a **Tecnologia da Informação e Segurança da Informação**, onde aplico minha expertise para resolver desafios complexos de forma eficiente e criativa.
+
+Com anos de experiência em TI atuando paralelamente à minha formação, desenvolvi um amplo conhecimento em **desenvolvimento de software, automação, design e modelagem**, trazendo soluções inovadoras para diferentes setores.
+
+---
+
+## 🛠 O Que Eu Faço?
+
+Atuo como **desenvolvedor full-stack** e especialista em **segurança digital**, utilizando tecnologia para potencializar soluções inteligentes e seguras. Minhas principais habilidades incluem:
+
+- **Linguagens de Programação**: Python, Java, C#, JavaScript, PHP, Rust, Go, C++.
+- **Desenvolvimento Web**: HTML, CSS, React, Node.js, TypeScript.
+- **Banco de Dados**: SQL, MongoDB.
+- **Ferramentas de Design & Modelagem**: Photoshop, CorelDRAW, Gimp, Ilustrator, Figma, AutoCAD, 3D Max, Maya.
+- **Segurança da Informação**: Análise de riscos, LGPD, ISO 27001, cibersegurança.
+- **Computação em Nuvem**: AWS, Azure.
+
+Busco sempre evoluir e explorar novas tecnologias para otimizar processos, desenvolver soluções escaláveis e aprimorar a segurança digital.
+
+---
+
+## 📌 Tecnologias & Ferramentas
+
+🔹 **Front-End**: React, Vue.js, Bootstrap, Tailwind CSS  
+🔹 **Back-End**: Node.js, Express.js, PHP, Django, Flask  
+🔹 **Banco de Dados**: MySQL, PostgreSQL, MongoDB, Firebase  
+🔹 **Cloud & DevOps**: Docker, Kubernetes, AWS, Azure, CI/CD  
+🔹 **Design & Modelagem**: Photoshop, Figma, CorelDRAW, AutoCAD  
+🔹 **Segurança & Compliance**: ISO 27001, LGPD, Análise de Vulnerabilidades
+
+---
+
+## 🌍 Conecte-se Comigo!
+
+Quer bater um papo sobre tecnologia, segurança da informação ou inovação? Vamos conversar!
+
+🔗 **GitHub**: [github.com/Cmmagnus](https://github.com/Cmmagnus)  
+🔗 **Instagram**: [instagram.com/marcelinocarlosmagno](https://www.instagram.com/marcelinocarlosmagno/)  
+📧 **LinkedIn**: [linkedin.com/in/carlos-magno-marcelino-619ab9186](https://www.linkedin.com/in/carlos-magno-marcelino-619ab9186/)
+
+Sinta-se à vontade para explorar meus projetos e compartilhar ideias. Vamos construir juntos um futuro mais seguro e inovador! 🚀
+
 # Portfólio Pessoal - Carlos Magno
 
 ### Eleve seu negócio digital a outro nível com **Segurança** e **Qualidade**!
@@ -40,14 +86,6 @@ cd seu-repositorio
 - [Instagram](https://www.instagram.com/marcelinocarlosmagno/) <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Instagram_logo_2022.svg/1200px-Instagram_logo_2022.svg.png" width="32" height="32">
 - [GitHub](https://github.com/Cmmagnus) <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" width="32" height="32">
 
-### 📝 Licença
-
-Distribuído sob a licença MIT. Veja a licença para mais detalhes.
+### 📝 Explore
 
 ✨ Sinta-se à vontade para explorar o portfólio, enviar feedbacks ou entrar em contato! Vamos conversar e levar o seu negócio digital a um novo nível com segurança e qualidade.
-
-### **Dicas de personalização**:
-
-1. **Cor de Destaque**: Utilize a cor azul (#22D4FD) para chamar a atenção para seções importantes.
-2. **Ícones e Emoticons**: Use ícones para representar as tecnologias e seções de uma forma mais interativa.
-3. **Links Visíveis**: Coloque links para redes sociais e repositórios de forma clara, facilitando o contato.
